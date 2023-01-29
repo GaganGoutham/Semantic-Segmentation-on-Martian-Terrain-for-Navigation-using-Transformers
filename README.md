@@ -1,4 +1,4 @@
-# Semantic Segmentation Martian Terrain Using Transformers
+# Semantic Segmentation on Martian Terrain for Navigation Using Transformers
 
 NASA has been at the forefront of extraterrestrial exploration, which has been the primary focus of human science research, for decades. Machine learning has been a major factor in enabling  autonomy, increasing the cost-effectiveness and decreasing the duration of space missions.
 We focus on the topography of Mars for navigation of rovers. <br/>
